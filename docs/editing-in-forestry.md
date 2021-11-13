@@ -27,7 +27,7 @@ Once the server is started, you will be able to **click on the preview icon** wh
 
 Go in the **Docs** section and click **Create** to add a new page to your documentation. The default front matter template contains `title`, `date` and `slug`fields. You can add new ones by editing the front matter template.
 
-## Front matter
+## Front matter (changed)
 
 You can edit the **Documention Page** front matter template by cliking on **Front Matter** in the sidebar. From here you can add new fields to enhance the current template.
 
